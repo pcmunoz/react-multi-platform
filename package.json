@@ -1,0 +1,17 @@
+{
+  "name": "react-multi-platform",
+  "packageManager": "yarn@3.2.3",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ],
+    "nohoist": [
+      "**/react-native",
+      "**/react-native/**"
+    ]
+  },
+  "devDependencies": {
+    "lerna": "^5.5.1"
+  }
+}
