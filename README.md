@@ -29,3 +29,7 @@ https://reactnative.dev/docs/environment-setup
 Shared
 
 https://itnext.io/step-by-step-building-and-publishing-an-npm-typescript-package-44fe7164964c
+
+Electron
+
+https://www.electronforge.io/templates/typescript-+-webpack-template
