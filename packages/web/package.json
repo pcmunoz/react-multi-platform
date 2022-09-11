@@ -3,6 +3,16 @@
   "version": "0.1.0",
   "private": true,
   "homepage": "https://pcmunoz.github.io/react-multi-platform",
+  "description": "Web part of react-multi-platform",
+  "license": "MIT",
+  "author": {
+    "name": "Patrick Ceasar Munoz",
+    "url": "https://github.com/pcmunoz"
+  },
+  "keywords": [
+    "web",
+    "reach-multi-platform"
+  ],
   "dependencies": {
     "@root/shared": "*",
     "@testing-library/jest-dom": "^5.16.5",

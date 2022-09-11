@@ -2,6 +2,16 @@
   "name": "mobile",
   "version": "0.0.1",
   "private": true,
+  "description": "Mobile part of react-multi-platform",
+  "license": "MIT",
+  "author": {
+    "name": "Patrick Ceasar Munoz",
+    "url": "https://github.com/pcmunoz"
+  },
+  "keywords": [
+    "mobile",
+    "reach-multi-platform"
+  ],
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",

@@ -1,7 +1,16 @@
 {
   "name": "@root/shared",
   "version": "1.0.0",
-  "description": "",
+  "description": "Shared functions between react-multi-platform",
+  "license": "MIT",
+  "author": {
+    "name": "Patrick Ceasar Munoz",
+    "url": "https://github.com/pcmunoz"
+  },
+  "keywords": [
+    "shared",
+    "reach-multi-platform"
+  ],
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
@@ -18,9 +27,6 @@
     "version": "npm run format && git add -A src",
     "postversion": "git push && git push --tags"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "devDependencies": {
     "@types/jest": "^29.0.0",
     "jest": "^29.0.3",

@@ -2,7 +2,7 @@
   "name": "desktop",
   "productName": "desktop",
   "version": "1.0.0",
-  "description": "My Electron application description",
+  "description": "Desktop part of react-multi-platform",
   "main": ".webpack/main",
   "scripts": {
     "start": "electron-forge start",
@@ -11,12 +11,15 @@
     "publish": "electron-forge publish",
     "lint": "eslint --ext .ts,.tsx ."
   },
-  "keywords": [],
+  "license": "MIT",
   "author": {
     "name": "Patrick Ceasar Munoz",
-    "email": "munozpatrickceasar@gmail.com"
+    "url": "https://github.com/pcmunoz"
   },
-  "license": "MIT",
+  "keywords": [
+    "shared",
+    "reach-multi-platform"
+  ],
   "config": {
     "forge": {
       "packagerConfig": {},
